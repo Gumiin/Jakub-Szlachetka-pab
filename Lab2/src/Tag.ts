@@ -8,7 +8,6 @@ export class Tags{
         else{
         this.id=id;
         }
-        //if(name == undefined)
         this.name = name;
     }
 }
