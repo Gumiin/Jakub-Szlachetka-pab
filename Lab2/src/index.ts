@@ -2,7 +2,7 @@ import express from "express"
 import fs from "fs";
 import jwt from "jsonwebtoken"
 import {Note} from "./Note"
-import {Tags} from "./Tags"
+import {Tags} from "./Tag"
 import {User} from "./User"
 
 
