@@ -5,7 +5,8 @@ import{Product} from "./Products"
 
 export class ShoppingCart{
     id: number;
-    UserId: number;
+    userId: number;
+    productID: number;
     isPayed: boolean;
     idOrder: boolean;
     delted: number;

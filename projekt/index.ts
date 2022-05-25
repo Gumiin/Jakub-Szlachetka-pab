@@ -8,7 +8,6 @@ import{User} from "./Users"
 import{Producer} from "./Producers"
 import{Product} from "./Products"
 import{ShoppingCart} from "./ShoppingCarts"
-import{Order} from "./Products"
 
 
 
